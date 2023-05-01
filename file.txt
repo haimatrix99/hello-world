@@ -4,3 +4,4 @@ Edit commit 2
 Add feature 1
 Add feature 2
 Fix bug
+Add feature 3
