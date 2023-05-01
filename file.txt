@@ -1,3 +1,5 @@
 Hello world
 Edit commit 1
 Edit commit 2
+Add feature 1
+Add feature 2
