@@ -1,2 +1,2 @@
 # hello-world
-Learn Git
+Learn Git and Jenkins
