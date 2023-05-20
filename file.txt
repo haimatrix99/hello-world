@@ -10,3 +10,4 @@ Add feature 5
 Add feature 6
 Hotfix
 Add feature 7
+Add feature 8
